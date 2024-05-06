@@ -19,22 +19,6 @@ h1,h2,h3,p {
   margin-right: 70%; 
 }
 
-.topnav {
-  margin: 0px;
-}
-
-.topnav a {
-  color: rgb(255, 20, 147);
-}
-
-.topnav a:hover {
-  color: orange;
-}
-
-.topnav {
-  margin: 0px;
-}
-
 .topnav a {
   color: orange;
 }
